@@ -61,7 +61,10 @@ This portfolio showcases the projects and practical skills I developed during my
 
 ## Final Presentation
 
-Final internship presentation will be added here.
+The final presentation brings together all five tasks completed during my Data Analytics Internship at ApexPlanet Software Pvt. Ltd.
+
+- [View Final Presentation (PDF)](Aravind_ApexPlanet_Task5_Final_Presentation.pdf)
+- [Download Editable PowerPoint (PPTX)](Aravind_ApexPlanet_Task5_Final_Presentation.pptx)
 
 ## Conclusion
 
